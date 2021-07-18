@@ -11,7 +11,7 @@ file-name strings and separate one from the other.
 
 Try it on [regex101.com](https://regex101.com/r/1kNz3l/1)
 
-### Lunix
+### Linux
 
 `/(?'path'(?:(?:\/.{1,2}|[^*?:<>|\/]+)(?=\/)\/|^\/(?!\/))*)(?'file'[^*?:<>|\/]*|)/i`
 
